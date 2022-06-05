@@ -18,7 +18,7 @@ namespace STLFoodTruckFavorites4.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
-
+            //comment 6/5/2022
             return View();
         }
 
